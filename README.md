@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Analyzing Forensic Evidence Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing Forensic Evidence Home Lab](https://github.com/Jeremy-A-18/Analyzing-Forensic-Evidence-/tree/main)
 
 
 <h2>Certfications</h2>
