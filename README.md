@@ -9,10 +9,10 @@
 <h2>Certfications</h2>
 
 - [Security+](https://www.credly.com/badges/012770fe-f7c9-41eb-a5a4-8d2008052a87/linked_in_profile)
-- [Security+](https://www.credly.com/badges/012770fe-f7c9-41eb-a5a4-8d2008052a87/linked_in_profile)
-- [Security+](https://www.credly.com/badges/012770fe-f7c9-41eb-a5a4-8d2008052a87/linked_in_profile)
-- [Security+](https://www.credly.com/badges/012770fe-f7c9-41eb-a5a4-8d2008052a87/linked_in_profile)
-- [Security+](https://www.credly.com/badges/012770fe-f7c9-41eb-a5a4-8d2008052a87/linked_in_profile)
+- [CySA+](https://www.credly.com/badges/372dfc3d-1163-4246-9857-a2c27c7c5885/linked_in_profile)
+- [Cloud+](https://www.credly.com/badges/89c58f22-f196-4bb8-a23f-2b8c8b7b8b04/linked_in_profile)
+- [Secure Cloud Professional +](https://www.credly.com/badges/07168d49-4106-45d4-92c0-114ec1be88d1/linked_in_profile)
+- [Secure Analytics professional +](https://www.credly.com/badges/c0c7fbe9-8f56-47ec-90f0-b5984b6364db/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
