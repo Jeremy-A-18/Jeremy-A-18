@@ -5,7 +5,7 @@
 
   - [Analyzing Forensic Evidence Home Lab](https://github.com/Jeremy-A-18/Analyzing-Forensic-Evidence-/tree/main)
   - [DNS Server Setup Home Lab](https://github.com/Jeremy-A-18/Windows-Server-)
-  - [Forensic Analysis Home Lab]()
+  - [Documenting a workstation configurtaion]()
     
 
 
