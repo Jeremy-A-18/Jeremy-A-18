@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jeremy! </h1>
 
+Cyber is my passion. It has always been since I was younger. I enjoy lots of aspects 
+in the tech world, from troubleshooting software and hardware, to checking for vulnerabilities withn systems.
+I love the countless skills the field teaches me and I'm looking to showcase my skillset!
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
