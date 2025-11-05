@@ -2,7 +2,7 @@
 
 Cyber is my passion. It has always been since I was younger. I enjoy lots of aspects 
 in the tech world, from troubleshooting software and hardware, to checking for vulnerabilities within systems.
-I love the countless skills the field teaches me and I'm looking forward to showcasing my skillset!
+I love the countless skills the field has taught me and I'm looking forward to showcasing my skillset!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
