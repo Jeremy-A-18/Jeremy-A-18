@@ -9,7 +9,7 @@ I love the countless skills the field has taught me and I'm looking forward to s
 
   - [Analyzing Forensic Evidence Home Lab](https://github.com/Jeremy-A-18/Analyzing-Forensic-Evidence-/tree/main)
   - [DNS Server Setup Home Lab](https://github.com/Jeremy-A-18/Windows-Server-)
-  - [Documenting a workstation configurtaion Home Lab]()
+  - [Documenting a workstation configurtaion Home Lab](https://github.com/Jeremy-A-18/Documenting-a-workstation-configuration-/tree/main)
     
 
 
